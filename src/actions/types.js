@@ -1,0 +1,6 @@
+/**
+ * Node actions
+ */
+export const FETCH_NODES_SUCCESS = "FETCH_NODES_SUCCESS";
+export const FETCH_NODES_REQUESTING = "FETCH_NODES_REQUESTING";
+export const FETCH_NODES_ERROR = "FETCH_NODES_ERROR";

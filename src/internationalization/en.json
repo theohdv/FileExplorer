@@ -1,0 +1,11 @@
+{
+  "my_documents": "My documents",
+  "last_update": "Updated {{date}}",
+  "error": "Oups, an error occured.",
+  "infos_name": "Name: {{name}}",
+  "infos_updated_at": "Modified: {{date}}",
+  "infos_mimetype": "Mimetype: {{mimetype}}",
+  "infos_url": "Path: {{url}}",
+  "please_wait": "Please wait a few seconds…",
+  "error_file": "No application found on this device to open this file."
+}
