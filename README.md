@@ -3,11 +3,12 @@ React Native app to navigate into a file tree given by a specific API.
 
 ## Getting started
 
-```bash
+```
 git clone git@github.com:theohdv/FileExplorer.git
 cd FileExplorer
 npm i
-cp config/config.dist.js config/config.js
+cp src/config/config.dist.js src/config/config.js
+// Do not forget to add the API url in the config.js file
 react-native run-ios // run-android
 ```
 
